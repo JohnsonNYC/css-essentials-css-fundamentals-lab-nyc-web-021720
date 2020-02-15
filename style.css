@@ -22,3 +22,15 @@ nav a{
   background-color:grey;
   margin: auto;
 }
+
+#featured-property p{
+  width:800px;
+  text-align: center;
+}
+
+#details div{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align:center;
+}
